@@ -13,4 +13,6 @@ next.user-config.*
 # Common ignores
 node_modules
 .next/
-.DS_Store
+.DS_Store.wwebjs_auth/
+.wwebjs_cache/
+node_modules/
